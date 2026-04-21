@@ -1,7 +1,7 @@
 # Speed-up-time-
 Speed up time like MADE IN HEAVEN 
 
-# EPILEPSY WARNING
+## EPILEPSY WARNING
 
 This mod is my first mod! 
 
